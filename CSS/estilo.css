@@ -2,8 +2,10 @@
 
 body{
 	
-	background-image: url("IMG/fondo.jpeg");
-}
+	background-image: url("../IMG/fondo.jpeg");
+ 	background-repeat: no-repeat;
+ 	background-size: 1920px 1275px;
+ 	}
 
 .cabecera{
 	
