@@ -87,9 +87,10 @@ body{
 	font-size: large;
 }
 
-.texto, h3{
-		padding-left: 15px;
-		font-family: sans-serif;
+h3{
+	padding-left: 15px;
+	font-family: sans-serif;
+	border-bottom: solid #39b5e2 1px;
 		
 }
 
