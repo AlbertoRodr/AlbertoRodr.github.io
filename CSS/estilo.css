@@ -9,7 +9,7 @@ body{
 
 .cabecera{
 	
-	background-color: #39b5e2;
+	background-color: white;
 	height: 420px;
 	border: solid black 2px;
 	
@@ -22,6 +22,8 @@ body{
 	
 	
 }
+
+rgba(245,245,245,245)
 
 .cabecera_izquierda img{
 	margin-top: 10px;
