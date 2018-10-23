@@ -2,12 +2,12 @@
 
 body{
 	
-	background-color: #CEE3F6;
+	background-image: url("IMG/fondo.jpeg");
 }
 
 .cabecera{
 	
-	background-color: #176e87;
+	background-color: #39b5e2;
 	height: 420px;
 	border: solid black 2px;
 	
@@ -17,7 +17,6 @@ body{
 	
 	float: left;
 	width: 15%;
-	background-color: grey;
 	
 	
 }
@@ -27,10 +26,96 @@ body{
 	margin-left: 10px;
 }
 
-.cabecera_derecha{
+.cabecera_centro{
 	
-	float: right;
-	background-color: blue;
+	float: left;
     width: 85%;
+    height: 80%;
+	margin-top: 10px;
 }
+
+
+.cabecera_centro h1{
+	
+	text-align: center;
+}
+
+.contenido{
+	
+	height: 700px;
+	margin-right: 50px;
+}
+
+.menu {
+	
+	width: 13%;
+	height: 100%;
+	float: left;
+	
+}
+
+.texto{
+	
+	background-color: white; 
+	float: right;
+	width: 85%;
+	height: 500px;
+	margin-top: 50px;
+	
+}
+
+
+.menu_vertical {
+    width: 150px;
+    border: solid black 1.5px;
+    margin-top: 50px;
+    margin-left: 40px;
+    
+}
+
+.menu_vertical a {
+    background-color: #39b5e2;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.menu_vertical a:hover {
+    background-color: #ccc;
+}
+
+.menu_vertical a.active {
+    background-color: #176e87;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
