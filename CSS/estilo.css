@@ -56,14 +56,13 @@ body{
 
 .contenido{
 	
-	height: 1600px;
 	margin-right: 50px;
 }
 
 .menu {
 	
 	width: 13%;
-	height: 100%;
+	height: 90%;
 	float: left;
 	
 	
@@ -74,9 +73,10 @@ body{
 	background-color: white; 
 	float: right;
 	width: 83%;
-	height: 1500px;
 	margin-top: 50px;
+	margin-bottom: 5%;
 	border-radius: 10px;
+	
 	
 }
 
@@ -95,7 +95,7 @@ h3{
 }
 
 .menu_vertical {
-    width: 150px;
+    width: 87%;
     margin-top: 50px;
     margin-left: 5%;
     border-radius: 10px;
@@ -106,7 +106,7 @@ h3{
     background-color: #39b5e2;
     color: black;
     display: block;
-    padding: 12px;
+    padding: 5%;
     text-decoration: none;
     text-align: center;
     border-radius: 10px;
@@ -123,32 +123,6 @@ h3{
     background-color: #176e87;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
